@@ -1,0 +1,5 @@
+﻿  CharacterDemo.cpp
+C:\Users\huski\Desktop\Urho3D\Urho3D-1.7-VS15\include\Urho3D\ThirdParty\Bullet/LinearMath/btIDebugDraw.h(173): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\huski\Desktop\Urho3D\Urho3D-1.7-VS15\include\Urho3D\ThirdParty\Bullet/LinearMath/btIDebugDraw.h(174): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+C:\Users\huski\Desktop\Urho3D\Urho3D-1.7-VS15\include\Urho3D\ThirdParty\Bullet/LinearMath/btIDebugDraw.h(175): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+  Assignment.vcxproj -> C:\Users\huski\Desktop\Urho3D\Assignment\VS15\bin\Assignment_d.exe

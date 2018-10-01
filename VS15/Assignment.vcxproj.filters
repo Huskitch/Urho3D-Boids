@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\huski\Desktop\Urho3D\Assignment\Character.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\huski\Desktop\Urho3D\Assignment\CharacterDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\huski\Desktop\Urho3D\Assignment\Touch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Boids.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\huski\Desktop\Urho3D\Assignment\Character.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\huski\Desktop\Urho3D\Assignment\CharacterDemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\huski\Desktop\Urho3D\Assignment\Sample.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\huski\Desktop\Urho3D\Assignment\Touch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Boids.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\huski\Desktop\Urho3D\Assignment\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\huski\Desktop\Urho3D\Assignment\bin\CoreData">
+      <Filter>Resource Dirs</Filter>
+    </None>
+    <None Include="C:\Users\huski\Desktop\Urho3D\Assignment\bin\Data">
+      <Filter>Resource Dirs</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DCA5FC4B-D3A1-363F-B545-08C7DD5A7A47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{92D461B1-2FA8-3BE2-B9F2-F4219EB72F5F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Dirs">
+      <UniqueIdentifier>{4D1D686E-2202-3654-AE77-56EA2AFD6E5E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

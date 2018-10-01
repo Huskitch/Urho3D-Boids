@@ -1,0 +1,9 @@
+<cubemap>
+    <face name="sunsetfront.dds" />
+    <face name="sunsetback.dds" />
+    <face name="sunsetup.dds" />
+    <face name="sunsetdown.dds" />
+    <face name="sunsetleft.dds" />
+    <face name="sunsetright.dds" />
+    <quality low="0" />
+</cubemap>
